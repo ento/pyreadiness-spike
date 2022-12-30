@@ -1,0 +1,1081 @@
+[{
+  "project": "boto3",
+  "total_downloads": "497949630"
+}, {
+  "project": "urllib3",
+  "total_downloads": "264308876"
+}, {
+  "project": "requests",
+  "total_downloads": "242301999"
+}, {
+  "project": "botocore",
+  "total_downloads": "238524310"
+}, {
+  "project": "charset-normalizer",
+  "total_downloads": "203228074"
+}, {
+  "project": "google-api-core",
+  "total_downloads": "198418955"
+}, {
+  "project": "idna",
+  "total_downloads": "196216350"
+}, {
+  "project": "certifi",
+  "total_downloads": "191350104"
+}, {
+  "project": "setuptools",
+  "total_downloads": "175790806"
+}, {
+  "project": "typing-extensions",
+  "total_downloads": "173090528"
+}, {
+  "project": "s3transfer",
+  "total_downloads": "169254554"
+}, {
+  "project": "python-dateutil",
+  "total_downloads": "164543760"
+}, {
+  "project": "awscli",
+  "total_downloads": "157492997"
+}, {
+  "project": "six",
+  "total_downloads": "151983548"
+}, {
+  "project": "pyyaml",
+  "total_downloads": "146169618"
+}, {
+  "project": "wheel",
+  "total_downloads": "146028411"
+}, {
+  "project": "cryptography",
+  "total_downloads": "141110751"
+}, {
+  "project": "numpy",
+  "total_downloads": "126848615"
+}, {
+  "project": "packaging",
+  "total_downloads": "122068781"
+}, {
+  "project": "pip",
+  "total_downloads": "108481249"
+}, {
+  "project": "protobuf",
+  "total_downloads": "107585883"
+}, {
+  "project": "importlib-metadata",
+  "total_downloads": "107013840"
+}, {
+  "project": "zipp",
+  "total_downloads": "102614183"
+}, {
+  "project": "pyjwt",
+  "total_downloads": "100952073"
+}, {
+  "project": "pyparsing",
+  "total_downloads": "100903140"
+}, {
+  "project": "rsa",
+  "total_downloads": "100593272"
+}, {
+  "project": "jmespath",
+  "total_downloads": "100388647"
+}, {
+  "project": "pyasn1",
+  "total_downloads": "99658379"
+}, {
+  "project": "pandas",
+  "total_downloads": "99318995"
+}, {
+  "project": "attrs",
+  "total_downloads": "97874957"
+}, {
+  "project": "pytz",
+  "total_downloads": "91995626"
+}, {
+  "project": "click",
+  "total_downloads": "91540622"
+}, {
+  "project": "cffi",
+  "total_downloads": "89421996"
+}, {
+  "project": "aiobotocore",
+  "total_downloads": "87251979"
+}, {
+  "project": "oauthlib",
+  "total_downloads": "86679052"
+}, {
+  "project": "jinja2",
+  "total_downloads": "85101706"
+}, {
+  "project": "markupsafe",
+  "total_downloads": "85032527"
+}, {
+  "project": "pycparser",
+  "total_downloads": "82319410"
+}, {
+  "project": "requests-oauthlib",
+  "total_downloads": "77468043"
+}, {
+  "project": "colorama",
+  "total_downloads": "76544843"
+}, {
+  "project": "fsspec",
+  "total_downloads": "71598487"
+}, {
+  "project": "google-auth",
+  "total_downloads": "70622230"
+}, {
+  "project": "s3fs",
+  "total_downloads": "68606198"
+}, {
+  "project": "googleapis-common-protos",
+  "total_downloads": "67280088"
+}, {
+  "project": "pyarrow",
+  "total_downloads": "66707041"
+}, {
+  "project": "cachetools",
+  "total_downloads": "65584836"
+}, {
+  "project": "wrapt",
+  "total_downloads": "65208484"
+}, {
+  "project": "docutils",
+  "total_downloads": "64084724"
+}, {
+  "project": "grpcio-status",
+  "total_downloads": "63272988"
+}, {
+  "project": "google-cloud-bigquery",
+  "total_downloads": "61335705"
+}, {
+  "project": "psutil",
+  "total_downloads": "60301020"
+}, {
+  "project": "pyasn1-modules",
+  "total_downloads": "59185407"
+}, {
+  "project": "sqlalchemy",
+  "total_downloads": "57254405"
+}, {
+  "project": "isodate",
+  "total_downloads": "57128030"
+}, {
+  "project": "jsonschema",
+  "total_downloads": "56513043"
+}, {
+  "project": "aiohttp",
+  "total_downloads": "55568848"
+}, {
+  "project": "tomli",
+  "total_downloads": "55541624"
+}, {
+  "project": "async-timeout",
+  "total_downloads": "54577382"
+}, {
+  "project": "grpcio",
+  "total_downloads": "53865114"
+}, {
+  "project": "yarl",
+  "total_downloads": "52922694"
+}, {
+  "project": "multidict",
+  "total_downloads": "52824683"
+}, {
+  "project": "platformdirs",
+  "total_downloads": "52005563"
+}, {
+  "project": "azure-core",
+  "total_downloads": "51907520"
+}, {
+  "project": "lxml",
+  "total_downloads": "51662525"
+}, {
+  "project": "werkzeug",
+  "total_downloads": "50309440"
+}, {
+  "project": "greenlet",
+  "total_downloads": "49966740"
+}, {
+  "project": "decorator",
+  "total_downloads": "49854718"
+}, {
+  "project": "filelock",
+  "total_downloads": "49642282"
+}, {
+  "project": "pyopenssl",
+  "total_downloads": "49112429"
+}, {
+  "project": "google-cloud-storage",
+  "total_downloads": "48643885"
+}, {
+  "project": "soupsieve",
+  "total_downloads": "47592825"
+}, {
+  "project": "pillow",
+  "total_downloads": "47486581"
+}, {
+  "project": "frozenlist",
+  "total_downloads": "47241876"
+}, {
+  "project": "pluggy",
+  "total_downloads": "47181796"
+}, {
+  "project": "beautifulsoup4",
+  "total_downloads": "46357334"
+}, {
+  "project": "pyrsistent",
+  "total_downloads": "45587601"
+}, {
+  "project": "aiosignal",
+  "total_downloads": "45497769"
+}, {
+  "project": "msrest",
+  "total_downloads": "45095636"
+}, {
+  "project": "asn1crypto",
+  "total_downloads": "44560277"
+}, {
+  "project": "pytest",
+  "total_downloads": "43707377"
+}, {
+  "project": "tqdm",
+  "total_downloads": "43700097"
+}, {
+  "project": "chardet",
+  "total_downloads": "43568045"
+}, {
+  "project": "websocket-client",
+  "total_downloads": "43359338"
+}, {
+  "project": "et-xmlfile",
+  "total_downloads": "43009463"
+}, {
+  "project": "scipy",
+  "total_downloads": "42757123"
+}, {
+  "project": "openpyxl",
+  "total_downloads": "42640259"
+}, {
+  "project": "importlib-resources",
+  "total_downloads": "41775005"
+}, {
+  "project": "tabulate",
+  "total_downloads": "41718206"
+}, {
+  "project": "flask",
+  "total_downloads": "41476361"
+}, {
+  "project": "google-cloud-core",
+  "total_downloads": "40841758"
+}, {
+  "project": "google-api-python-client",
+  "total_downloads": "40587411"
+}, {
+  "project": "pydantic",
+  "total_downloads": "40489550"
+}, {
+  "project": "requests-toolbelt",
+  "total_downloads": "39600602"
+}, {
+  "project": "virtualenv",
+  "total_downloads": "39127211"
+}, {
+  "project": "google-resumable-media",
+  "total_downloads": "38769777"
+}, {
+  "project": "proto-plus",
+  "total_downloads": "36260557"
+}, {
+  "project": "pygments",
+  "total_downloads": "35882120"
+}, {
+  "project": "iniconfig",
+  "total_downloads": "35807192"
+}, {
+  "project": "azure-storage-blob",
+  "total_downloads": "35798787"
+}, {
+  "project": "itsdangerous",
+  "total_downloads": "35215457"
+}, {
+  "project": "psycopg2-binary",
+  "total_downloads": "34870732"
+}, {
+  "project": "toml",
+  "total_downloads": "32679478"
+}, {
+  "project": "pynacl",
+  "total_downloads": "32666228"
+}, {
+  "project": "pymysql",
+  "total_downloads": "32422929"
+}, {
+  "project": "distlib",
+  "total_downloads": "32408638"
+}, {
+  "project": "deprecated",
+  "total_downloads": "32368597"
+}, {
+  "project": "azure-common",
+  "total_downloads": "32160468"
+}, {
+  "project": "scikit-learn",
+  "total_downloads": "32116229"
+}, {
+  "project": "future",
+  "total_downloads": "31728369"
+}, {
+  "project": "bcrypt",
+  "total_downloads": "31285824"
+}, {
+  "project": "py4j",
+  "total_downloads": "31159069"
+}, {
+  "project": "sqlparse",
+  "total_downloads": "31024739"
+}, {
+  "project": "paramiko",
+  "total_downloads": "30702662"
+}, {
+  "project": "matplotlib",
+  "total_downloads": "30593683"
+}, {
+  "project": "py",
+  "total_downloads": "29854137"
+}, {
+  "project": "exceptiongroup",
+  "total_downloads": "29396530"
+}, {
+  "project": "httplib2",
+  "total_downloads": "29367225"
+}, {
+  "project": "docker",
+  "total_downloads": "29106744"
+}, {
+  "project": "mypy-extensions",
+  "total_downloads": "28949594"
+}, {
+  "project": "cython",
+  "total_downloads": "28828312"
+}, {
+  "project": "coverage",
+  "total_downloads": "28518325"
+}, {
+  "project": "gitpython",
+  "total_downloads": "28497637"
+}, {
+  "project": "cloudpickle",
+  "total_downloads": "28037057"
+}, {
+  "project": "google-auth-oauthlib",
+  "total_downloads": "27790106"
+}, {
+  "project": "more-itertools",
+  "total_downloads": "27741606"
+}, {
+  "project": "gitdb",
+  "total_downloads": "27483458"
+}, {
+  "project": "pathspec",
+  "total_downloads": "27204911"
+}, {
+  "project": "smmap",
+  "total_downloads": "27201101"
+}, {
+  "project": "kiwisolver",
+  "total_downloads": "26969453"
+}, {
+  "project": "pexpect",
+  "total_downloads": "26639757"
+}, {
+  "project": "ptyprocess",
+  "total_downloads": "26631078"
+}, {
+  "project": "msal",
+  "total_downloads": "26611019"
+}, {
+  "project": "pyspark",
+  "total_downloads": "26319841"
+}, {
+  "project": "termcolor",
+  "total_downloads": "26276502"
+}, {
+  "project": "msgpack",
+  "total_downloads": "25715823"
+}, {
+  "project": "cycler",
+  "total_downloads": "25463099"
+}, {
+  "project": "pycryptodomex",
+  "total_downloads": "25261476"
+}, {
+  "project": "cfn-lint",
+  "total_downloads": "25180909"
+}, {
+  "project": "portalocker",
+  "total_downloads": "25084268"
+}, {
+  "project": "pycodestyle",
+  "total_downloads": "25048449"
+}, {
+  "project": "tzdata",
+  "total_downloads": "24273473"
+}, {
+  "project": "msal-extensions",
+  "total_downloads": "24176503"
+}, {
+  "project": "uritemplate",
+  "total_downloads": "23798986"
+}, {
+  "project": "sniffio",
+  "total_downloads": "23713228"
+}, {
+  "project": "redis",
+  "total_downloads": "23589708"
+}, {
+  "project": "wcwidth",
+  "total_downloads": "23442521"
+}, {
+  "project": "absl-py",
+  "total_downloads": "23333458"
+}, {
+  "project": "webencodings",
+  "total_downloads": "23258965"
+}, {
+  "project": "scramp",
+  "total_downloads": "23222328"
+}, {
+  "project": "snowflake-connector-python",
+  "total_downloads": "23188709"
+}, {
+  "project": "pyodbc",
+  "total_downloads": "23113371"
+}, {
+  "project": "tzlocal",
+  "total_downloads": "23011849"
+}, {
+  "project": "keyring",
+  "total_downloads": "22966577"
+}, {
+  "project": "adal",
+  "total_downloads": "22774124"
+}, {
+  "project": "marshmallow",
+  "total_downloads": "22525626"
+}, {
+  "project": "gunicorn",
+  "total_downloads": "22475596"
+}, {
+  "project": "isort",
+  "total_downloads": "22454659"
+}, {
+  "project": "setuptools-scm",
+  "total_downloads": "22409462"
+}, {
+  "project": "google-cloud-pubsub",
+  "total_downloads": "22048577"
+}, {
+  "project": "google-crc32c",
+  "total_downloads": "21998284"
+}, {
+  "project": "markdown",
+  "total_downloads": "21826848"
+}, {
+  "project": "regex",
+  "total_downloads": "21818606"
+}, {
+  "project": "mccabe",
+  "total_downloads": "21722346"
+}, {
+  "project": "azure-identity",
+  "total_downloads": "21588898"
+}, {
+  "project": "oscrypto",
+  "total_downloads": "21550651"
+}, {
+  "project": "joblib",
+  "total_downloads": "21511962"
+}, {
+  "project": "dill",
+  "total_downloads": "21217855"
+}, {
+  "project": "datadog",
+  "total_downloads": "20984839"
+}, {
+  "project": "xlrd",
+  "total_downloads": "20861196"
+}, {
+  "project": "h11",
+  "total_downloads": "20595169"
+}, {
+  "project": "tensorflow-serving-api",
+  "total_downloads": "20578389"
+}, {
+  "project": "ply",
+  "total_downloads": "20477798"
+}, {
+  "project": "google-auth-httplib2",
+  "total_downloads": "20369818"
+}, {
+  "project": "asynctest",
+  "total_downloads": "20270178"
+}, {
+  "project": "secretstorage",
+  "total_downloads": "20224813"
+}, {
+  "project": "pg8000",
+  "total_downloads": "20219658"
+}, {
+  "project": "mako",
+  "total_downloads": "20023703"
+}, {
+  "project": "anyio",
+  "total_downloads": "19932363"
+}, {
+  "project": "jeepney",
+  "total_downloads": "19593764"
+}, {
+  "project": "ruamel-yaml",
+  "total_downloads": "19434788"
+}, {
+  "project": "pymongo",
+  "total_downloads": "19424523"
+}, {
+  "project": "networkx",
+  "total_downloads": "19400761"
+}, {
+  "project": "prompt-toolkit",
+  "total_downloads": "19181816"
+}, {
+  "project": "awswrangler",
+  "total_downloads": "19118741"
+}, {
+  "project": "redshift-connector",
+  "total_downloads": "19066519"
+}, {
+  "project": "xmltodict",
+  "total_downloads": "19051067"
+}, {
+  "project": "backoff",
+  "total_downloads": "19020898"
+}, {
+  "project": "tornado",
+  "total_downloads": "18922033"
+}, {
+  "project": "tenacity",
+  "total_downloads": "18737832"
+}, {
+  "project": "traitlets",
+  "total_downloads": "18727004"
+}, {
+  "project": "nbconvert",
+  "total_downloads": "18584606"
+}, {
+  "project": "threadpoolctl",
+  "total_downloads": "18533544"
+}, {
+  "project": "python-dotenv",
+  "total_downloads": "18440279"
+}, {
+  "project": "alembic",
+  "total_downloads": "18426147"
+}, {
+  "project": "nest-asyncio",
+  "total_downloads": "18342701"
+}, {
+  "project": "pyathena",
+  "total_downloads": "18182942"
+}, {
+  "project": "pkginfo",
+  "total_downloads": "18068241"
+}, {
+  "project": "fonttools",
+  "total_downloads": "17883945"
+}, {
+  "project": "pkgutil-resolve-name",
+  "total_downloads": "17763539"
+}, {
+  "project": "ruamel-yaml-clib",
+  "total_downloads": "17740633"
+}, {
+  "project": "sentry-sdk",
+  "total_downloads": "17593528"
+}, {
+  "project": "jaraco-classes",
+  "total_downloads": "17453117"
+}, {
+  "project": "rich",
+  "total_downloads": "17431289"
+}, {
+  "project": "defusedxml",
+  "total_downloads": "17425481"
+}, {
+  "project": "dnspython",
+  "total_downloads": "17423553"
+}, {
+  "project": "pytz-deprecation-shim",
+  "total_downloads": "17294997"
+}, {
+  "project": "flake8",
+  "total_downloads": "17166445"
+}, {
+  "project": "requests-aws4auth",
+  "total_downloads": "17084418"
+}, {
+  "project": "jsonpath-ng",
+  "total_downloads": "16862167"
+}, {
+  "project": "tomlkit",
+  "total_downloads": "16611979"
+}, {
+  "project": "tensorboard",
+  "total_downloads": "16599506"
+}, {
+  "project": "pbr",
+  "total_downloads": "16556157"
+}, {
+  "project": "pycryptodome",
+  "total_downloads": "16391544"
+}, {
+  "project": "ipython",
+  "total_downloads": "16387951"
+}, {
+  "project": "progressbar2",
+  "total_downloads": "16278328"
+}, {
+  "project": "toolz",
+  "total_downloads": "16198350"
+}, {
+  "project": "google-cloud-bigquery-storage",
+  "total_downloads": "16181180"
+}, {
+  "project": "backports-zoneinfo",
+  "total_downloads": "16175087"
+}, {
+  "project": "google-cloud-secret-manager",
+  "total_downloads": "16094950"
+}, {
+  "project": "python-utils",
+  "total_downloads": "16094559"
+}, {
+  "project": "prometheus-client",
+  "total_downloads": "16093591"
+}, {
+  "project": "poetry-core",
+  "total_downloads": "15974976"
+}, {
+  "project": "pyflakes",
+  "total_downloads": "15717909"
+}, {
+  "project": "oauth2client",
+  "total_downloads": "15689023"
+}, {
+  "project": "databricks-cli",
+  "total_downloads": "15498596"
+}, {
+  "project": "grpc-google-iam-v1",
+  "total_downloads": "15490456"
+}, {
+  "project": "jedi",
+  "total_downloads": "15474831"
+}, {
+  "project": "babel",
+  "total_downloads": "15445192"
+}, {
+  "project": "elasticsearch",
+  "total_downloads": "15331696"
+}, {
+  "project": "sagemaker",
+  "total_downloads": "15273454"
+}, {
+  "project": "tensorflow",
+  "total_downloads": "15172164"
+}, {
+  "project": "jupyter-client",
+  "total_downloads": "15145160"
+}, {
+  "project": "simplejson",
+  "total_downloads": "14956448"
+}, {
+  "project": "entrypoints",
+  "total_downloads": "14861290"
+}, {
+  "project": "aioitertools",
+  "total_downloads": "14606727"
+}, {
+  "project": "parso",
+  "total_downloads": "14542901"
+}, {
+  "project": "argcomplete",
+  "total_downloads": "14421281"
+}, {
+  "project": "lazy-object-proxy",
+  "total_downloads": "14023318"
+}, {
+  "project": "opensearch-py",
+  "total_downloads": "13981844"
+}, {
+  "project": "html5lib",
+  "total_downloads": "13943465"
+}, {
+  "project": "pickleshare",
+  "total_downloads": "13882966"
+}, {
+  "project": "backcall",
+  "total_downloads": "13880141"
+}, {
+  "project": "lockfile",
+  "total_downloads": "13796465"
+}, {
+  "project": "msrestazure",
+  "total_downloads": "13737921"
+}, {
+  "project": "mysql-connector-python",
+  "total_downloads": "13722698"
+}, {
+  "project": "pytest-cov",
+  "total_downloads": "13692972"
+}, {
+  "project": "sortedcontainers",
+  "total_downloads": "13651145"
+}, {
+  "project": "black",
+  "total_downloads": "13641514"
+}, {
+  "project": "apache-airflow",
+  "total_downloads": "13469792"
+}, {
+  "project": "marshmallow-enum",
+  "total_downloads": "13460429"
+}, {
+  "project": "websockets",
+  "total_downloads": "13452626"
+}, {
+  "project": "zope-interface",
+  "total_downloads": "13409008"
+}, {
+  "project": "pyzmq",
+  "total_downloads": "13392218"
+}, {
+  "project": "gast",
+  "total_downloads": "13301803"
+}, {
+  "project": "tensorflow-estimator",
+  "total_downloads": "13277275"
+}, {
+  "project": "kubernetes",
+  "total_downloads": "13222953"
+}, {
+  "project": "typing-inspect",
+  "total_downloads": "12998207"
+}, {
+  "project": "psycopg2",
+  "total_downloads": "12908034"
+}, {
+  "project": "cachecontrol",
+  "total_downloads": "12887117"
+}, {
+  "project": "cattrs",
+  "total_downloads": "12681159"
+}, {
+  "project": "matplotlib-inline",
+  "total_downloads": "12293146"
+}, {
+  "project": "httpcore",
+  "total_downloads": "12178186"
+}, {
+  "project": "astroid",
+  "total_downloads": "12167199"
+}, {
+  "project": "h5py",
+  "total_downloads": "12158270"
+}, {
+  "project": "commonmark",
+  "total_downloads": "12141585"
+}, {
+  "project": "bleach",
+  "total_downloads": "12109065"
+}, {
+  "project": "rfc3986",
+  "total_downloads": "12064507"
+}, {
+  "project": "ipykernel",
+  "total_downloads": "11960083"
+}, {
+  "project": "smart-open",
+  "total_downloads": "11897005"
+}, {
+  "project": "requests-file",
+  "total_downloads": "11831176"
+}, {
+  "project": "shellingham",
+  "total_downloads": "11811467"
+}, {
+  "project": "mistune",
+  "total_downloads": "11738975"
+}, {
+  "project": "appdirs",
+  "total_downloads": "11710370"
+}, {
+  "project": "jupyter-core",
+  "total_downloads": "11694246"
+}, {
+  "project": "azure-storage-common",
+  "total_downloads": "11641806"
+}, {
+  "project": "pylint",
+  "total_downloads": "11615258"
+}, {
+  "project": "python-slugify",
+  "total_downloads": "11589019"
+}, {
+  "project": "humanfriendly",
+  "total_downloads": "11573280"
+}, {
+  "project": "jsonpointer",
+  "total_downloads": "11526589"
+}, {
+  "project": "cached-property",
+  "total_downloads": "11520722"
+}, {
+  "project": "imageio",
+  "total_downloads": "11470873"
+}, {
+  "project": "nbformat",
+  "total_downloads": "11366757"
+}, {
+  "project": "google-pasta",
+  "total_downloads": "11224426"
+}, {
+  "project": "pysocks",
+  "total_downloads": "11149359"
+}, {
+  "project": "numba",
+  "total_downloads": "11001497"
+}, {
+  "project": "poetry",
+  "total_downloads": "10818355"
+}, {
+  "project": "mlflow",
+  "total_downloads": "10753552"
+}, {
+  "project": "watchtower",
+  "total_downloads": "10733029"
+}, {
+  "project": "cleo",
+  "total_downloads": "10701274"
+}, {
+  "project": "fastjsonschema",
+  "total_downloads": "10619967"
+}, {
+  "project": "nltk",
+  "total_downloads": "10614015"
+}, {
+  "project": "text-unidecode",
+  "total_downloads": "10538344"
+}, {
+  "project": "httpx",
+  "total_downloads": "10456973"
+}, {
+  "project": "starlette",
+  "total_downloads": "10429489"
+}, {
+  "project": "unidecode",
+  "total_downloads": "10384645"
+}, {
+  "project": "jupyter-server",
+  "total_downloads": "10311551"
+}, {
+  "project": "jsonpatch",
+  "total_downloads": "10287154"
+}, {
+  "project": "crashtest",
+  "total_downloads": "10241621"
+}, {
+  "project": "llvmlite",
+  "total_downloads": "10235761"
+}, {
+  "project": "dataclasses",
+  "total_downloads": "10208634"
+}, {
+  "project": "fastavro",
+  "total_downloads": "10166173"
+}, {
+  "project": "azure-nspkg",
+  "total_downloads": "10100050"
+}, {
+  "project": "notebook",
+  "total_downloads": "10052939"
+}, {
+  "project": "debugpy",
+  "total_downloads": "9945076"
+}, {
+  "project": "querystring-parser",
+  "total_downloads": "9913969"
+}, {
+  "project": "tinycss2",
+  "total_downloads": "9896245"
+}, {
+  "project": "dulwich",
+  "total_downloads": "9892904"
+}, {
+  "project": "xlsxwriter",
+  "total_downloads": "9892122"
+}, {
+  "project": "aenum",
+  "total_downloads": "9852395"
+}, {
+  "project": "google-cloud-dlp",
+  "total_downloads": "9839190"
+}, {
+  "project": "azure-mgmt-resource",
+  "total_downloads": "9823246"
+}, {
+  "project": "ujson",
+  "total_downloads": "9739868"
+}, {
+  "project": "selenium",
+  "total_downloads": "9678276"
+}, {
+  "project": "mock",
+  "total_downloads": "9659889"
+}, {
+  "project": "applicationinsights",
+  "total_downloads": "9657068"
+}, {
+  "project": "poetry-plugin-export",
+  "total_downloads": "9626523"
+}, {
+  "project": "croniter",
+  "total_downloads": "9624703"
+}, {
+  "project": "docopt",
+  "total_downloads": "9569729"
+}, {
+  "project": "mypy",
+  "total_downloads": "9519742"
+}, {
+  "project": "pysftp",
+  "total_downloads": "9511975"
+}, {
+  "project": "keras",
+  "total_downloads": "9490986"
+}, {
+  "project": "jsonpickle",
+  "total_downloads": "9445791"
+}, {
+  "project": "fastapi",
+  "total_downloads": "9438077"
+}, {
+  "project": "libcst",
+  "total_downloads": "9413247"
+}, {
+  "project": "snowflake-sqlalchemy",
+  "total_downloads": "9335676"
+}, {
+  "project": "uamqp",
+  "total_downloads": "9262949"
+}, {
+  "project": "pendulum",
+  "total_downloads": "9196400"
+}, {
+  "project": "typer",
+  "total_downloads": "9157877"
+}, {
+  "project": "opencensus",
+  "total_downloads": "9108862"
+}, {
+  "project": "asgiref",
+  "total_downloads": "9099777"
+}, {
+  "project": "azure-mgmt-core",
+  "total_downloads": "9047690"
+}, {
+  "project": "uvicorn",
+  "total_downloads": "9039502"
+}, {
+  "project": "distro",
+  "total_downloads": "8984612"
+}, {
+  "project": "thrift",
+  "total_downloads": "8968718"
+}, {
+  "project": "send2trash",
+  "total_downloads": "8965479"
+}, {
+  "project": "opencensus-context",
+  "total_downloads": "8951653"
+}, {
+  "project": "graphviz",
+  "total_downloads": "8943129"
+}, {
+  "project": "typed-ast",
+  "total_downloads": "8935674"
+}, {
+  "project": "ipython-genutils",
+  "total_downloads": "8922162"
+}, {
+  "project": "nbclient",
+  "total_downloads": "8914344"
+}, {
+  "project": "shapely",
+  "total_downloads": "8876368"
+}, {
+  "project": "pylev",
+  "total_downloads": "8762311"
+}, {
+  "project": "altair",
+  "total_downloads": "8758677"
+}, {
+  "project": "statsmodels",
+  "total_downloads": "8733988"
+}, {
+  "project": "tensorboard-plugin-wit",
+  "total_downloads": "8697728"
+}, {
+  "project": "confluent-kafka",
+  "total_downloads": "8667414"
+}, {
+  "project": "watchdog",
+  "total_downloads": "8664279"
+}, {
+  "project": "arrow",
+  "total_downloads": "8655970"
+}, {
+  "project": "torch",
+  "total_downloads": "8647005"
+}, {
+  "project": "cachy",
+  "total_downloads": "8571950"
+}, {
+  "project": "gspread",
+  "total_downloads": "8547805"
+}, {
+  "project": "contextlib2",
+  "total_downloads": "8440942"
+}, {
+  "project": "gremlinpython",
+  "total_downloads": "8434500"
+}, {
+  "project": "opt-einsum",
+  "total_downloads": "8422785"
+}, {
+  "project": "flatbuffers",
+  "total_downloads": "8409947"
+}, {
+  "project": "xgboost",
+  "total_downloads": "8309853"
+}, {
+  "project": "pytzdata",
+  "total_downloads": "8226663"
+}, {
+  "project": "seaborn",
+  "total_downloads": "8211989"
+}, {
+  "project": "transformers",
+  "total_downloads": "8164386"
+}, {
+  "project": "slack-sdk",
+  "total_downloads": "8145645"
+}]
